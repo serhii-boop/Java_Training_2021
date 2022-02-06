@@ -16,11 +16,15 @@
     ![image](https://user-images.githubusercontent.com/74115834/152701989-022b3243-a63e-4a8b-a80d-247876da2f7c.png)
 
 2)Creating docker image to deploy to the AWS Elastic Beanstalk instance
+![Uploading image.png…]()
+
 
         First, we have to create a user group in IAM
         ![image](https://user-images.githubusercontent.com/74115834/152702119-5ba8b3a9-c70b-4509-aacb-681cd75e5f2c.png)
         
         Then, create a new user and add hem to the previosly created userGroup
         ![image](https://user-images.githubusercontent.com/74115834/152702212-8af4ec54-797c-450e-82b0-c97b633c4586.png)
+        
+        
 
 
