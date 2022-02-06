@@ -16,7 +16,8 @@
 
 
     Success
-    ![image](https://user-images.githubusercontent.com/74115834/152701989-022b3243-a63e-4a8b-a80d-247876da2f7c.png)
+![3](https://user-images.githubusercontent.com/74115834/152702756-446efe28-a4cb-41f0-b6df-0add4bfc9023.png)
+
 
 2)Creating docker image to deploy to the AWS Elastic Beanstalk instance
 
