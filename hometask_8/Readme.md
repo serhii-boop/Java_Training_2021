@@ -7,7 +7,9 @@
         ENTRYPOINT ["java", "-jar", "firstdocker.jar"]
         
     Then build an image with the name of your jar file
-        ![image](https://user-images.githubusercontent.com/74115834/152701762-1d56b65a-57a0-4a57-bb5b-b86038ff5fbe.png)
+    ![1](https://user-images.githubusercontent.com/74115834/152702605-23a373c3-e481-4914-8649-289d33e33a0f.png)
+
+        
 
     Next run the image.
     ![image](https://user-images.githubusercontent.com/74115834/152701914-77e0cb55-89c8-48f2-8e0c-53c938b7d3f3.png)
@@ -16,7 +18,6 @@
     ![image](https://user-images.githubusercontent.com/74115834/152701989-022b3243-a63e-4a8b-a80d-247876da2f7c.png)
 
 2)Creating docker image to deploy to the AWS Elastic Beanstalk instance
-![Uploading image.png…]()
 
 
         First, we have to create a user group in IAM
@@ -27,5 +28,3 @@
         
         
 
-
-![Screenshot_10](https://user-images.githubusercontent.com/74115834/152702544-c33e8a67-26b6-47a9-8398-f692a661e291.png)
