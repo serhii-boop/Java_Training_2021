@@ -7,9 +7,8 @@
         ENTRYPOINT ["java", "-jar", "firstdocker.jar"]
         
     Then build an image with the name of your jar file
-    ![1](https://user-images.githubusercontent.com/74115834/152702605-23a373c3-e481-4914-8649-289d33e33a0f.png)
+    ![1](https://user-images.githubusercontent.com/74115834/152702615-4f78af3b-77b6-404e-8887-7fb23631284d.png)
 
-        
 
     Next run the image.
     ![image](https://user-images.githubusercontent.com/74115834/152701914-77e0cb55-89c8-48f2-8e0c-53c938b7d3f3.png)
