@@ -28,9 +28,10 @@
         Then, create a new user and add hem to the previously created userGroup
   ![5](https://user-images.githubusercontent.com/74115834/152702212-8af4ec54-797c-450e-82b0-c97b633c4586.png)
         
-        
+        Next create an enviroment at EB and deploy dockerfile    
    ![6](https://user-images.githubusercontent.com/74115834/152702862-42440a75-cec8-4a76-bbd1-eb410319f27c.png)
    
+   URL of the deployed application
    http://my-env.eba-ibyyptmu.eu-north-1.elasticbeanstalk.com/swagger-ui.html
    ![7](https://user-images.githubusercontent.com/74115834/152702898-a2bd223c-d25d-4bdd-ab54-6119fa57f685.png)
 
